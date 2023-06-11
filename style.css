@@ -1,0 +1,38 @@
+*{
+    margin-bottom: 15px;
+}
+
+body {
+    background-color: #B4B5E5;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding:15px;
+    background-color: #CBE6CE;
+    width:auto;
+}
+
+#intro {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #d5def5;
+    background-color: antiquewhite;
+}
+
+/* .personal {
+    text-align: left;
+    display: inline-block;
+}
+
+.education {
+    text-align: right;
+    display: inline-block;
+} */
